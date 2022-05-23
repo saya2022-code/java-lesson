@@ -37,4 +37,6 @@ class Bicycle{
         System.out.println("走行距離：" + this.distance + "km");
     }
 
+    
+
 }
